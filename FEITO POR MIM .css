@@ -1,0 +1,172 @@
+                                              /* Forma feita por mim /*
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+   
+    background: url("https://s3-alpha-sig.figma.com/img/5bb4/b1a6/28671896d55813cd9b8ab097b525c14c?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Zfc4hkmCEV6OIvekUMjO23Mw156TrtPviUIbH1a5GNy0ZZKrhvZzez41uYtCddgJss3a9LmHOUQcO27-0w4bLgsoScwEc7RmxQI0~3xL4KR78SW9bNPcMz73gEK50fEc15jrpyrbx5xFR-1fb-~JbyKDiV2W2WjTvyOeMj9vGWFVZQ1feK4UXYtd9BP93GFhPIPEzEgDamPSE4e0UyFK89HabIDzZf3Vdk1hb~XtdkcGmEOsCt7aJOw7v4EhtDTPyXIel6EkFfdchXSjGmSwdREfR3APtEgLAkUFs3kmgVLim~Ja87iwD7CcHQlR6ErfwKNlyqW1F3qZd90tUQr4nA__");
+    background-size: cover;
+    min-height: 100vh;
+
+}
+ 
+/*
+ .caixa-principal {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 130px;
+    margin-top: 700px;
+margin-right: 30px;
+
+}
+
+.caixa-principal2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 130px;
+    margin-top: 250px;
+    margin-left: 80px;
+
+}
+
+img {
+    width: 32vh;
+    border-radius: 300px;
+    color: rgba(255, 255, 255, 0.068);
+    border: 14px solid;
+    cursor: pointer;
+    padding: 5px;
+
+}
+
+.img1 {
+    width: 36vh;
+}
+
+
+
+.texto {
+    display: flex;
+    color: rgb(85, 3, 236);
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 650px;
+    font-size: 110px;
+    margin-left: 110px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 6px;
+    font-weight: 700;
+
+}
+
+p {
+    color: chartreuse;
+
+    font-size: 140px;
+}
+
+.texto1 {
+    display: flex;
+    color: rgb(85, 3, 236);
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 650px;
+    font-size: 110px;
+    margin-left: 110px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 6px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 110px;
+
+}
+
+h6 {
+    font-size: 120px;
+}
+
+h7 {
+    font-size: 115px;
+
+}
+
+img:hover {
+    border-radius: 600px;
+    color: rgba(20, 3, 253, 0.973);
+    border: 3 0px solid;
+    opacity: 0.7;
+    transition: ease-in-out 1s;
+    box-shadow: #000000;
+    font-size: 90px;
+    width: 35vh;
+
+}
+
+
+.caixa-superior {
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+
+button {
+
+    background-color: rgb(22, 241, 22);
+    font-size: 150px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 6px;
+    border-radius: 150px;
+    height: 14vh;
+    padding: 0vh 3vh 1vh 3vh;
+    color: rgba(0, 0, 0, 0.973);
+    border: 10px solid;
+
+}
+
+button:hover {
+
+    border-radius: 600px;
+    color: rgba(3, 95, 10, 0.973);
+    border: 50px solid;
+    opacity: 0.4;
+    transition: ease-in-out 1.2s;
+    box-shadow: #000000;
+    font-size: 160px;
+    height: 16vh;
+}
+
+button:active {
+    background-color: black;
+    border-radius: 600px;
+    color: rgba(3, 95, 10, 0.973);
+    border: 50px solid;
+    opacity: 0.9;
+    transition: ease 0.4s;
+    box-shadow: #000000;
+    font-size: 160px;
+    height: 16vh;
+} */
+ 
+                                           
+
+ 
